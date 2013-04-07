@@ -1,7 +1,7 @@
 # fs-exists
 
-Wraps fs.exists so callback is called with (err, result) instead of just (result).
-Since it's just wrapping fs.exists, the `err` argument will always be `null`.
+Wraps native fs.exists so callback is called with `(err, result)` instead of just `(result)`.  
+Since it's just wrapping `fs.exists`, the `err` argument will always be `null`.
 
 ## Usage
 
