@@ -7,7 +7,7 @@
   "homepage": "https://github.com/meryn/fs-exists",
   "repository": {
     "type": "git",
-    "url": "git://github.com:meryn/fs-exists.git"
+    "url": "git://github.com/meryn/fs-exists.git"
   },
   "private": false,
   "dependencies": {},
