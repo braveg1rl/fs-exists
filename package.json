@@ -2,7 +2,7 @@
   "name": "fs-exists",
   "description": "Wraps fs.exists so callback is called with (err, result) instead of just (result).",
   "keywords": [],
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Meryn Stol <merynstol@gmail.com>",
   "homepage": "https://github.com/meryn/fs-exists",
   "repository": {
