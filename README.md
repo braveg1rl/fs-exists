@@ -1,5 +1,7 @@
 # fs-exists [![Build Status](https://travis-ci.org/meryn/fs-exists.png?branch=master)](https://travis-ci.org/meryn/fs-exists)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/braveg1rl/fs-exists.svg)](https://greenkeeper.io/)
+
 Wraps Node.js' native `fs.exists` so callback is called with `(err, result)` instead of just `(result)`.  
 Since it's just wrapping `fs.exists`, the `err` argument will always be `null`.
 
